@@ -2,3 +2,8 @@ this file is git stash practice
 
 
 different line at same place
+new line
+
+hello
+
+this line is from master branch
