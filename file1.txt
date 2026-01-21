@@ -1,1 +1,4 @@
 this file is git stash practice
+
+
+different line at same place
